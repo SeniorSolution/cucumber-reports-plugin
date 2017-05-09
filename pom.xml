@@ -16,7 +16,7 @@
 
     <!-- This name and URL are added by the Jenkins when displaying help.html file -->
     <name>Cucumber reports</name>
-    <url>https://github.com/jenkinsci/cucumber-reports-plugin</url>
+    <url>https://github.com/SeniorSolution/cucumber-reports-plugin</url>
 
     <scm>
         <connection>scm:git:git@github.com:jenkinsci/cucumber-reports-plugin.git</connection>
@@ -99,7 +99,7 @@
         <dependency>
             <groupId>net.masterthought</groupId>
             <artifactId>cucumber-reporting</artifactId>
-            <version>3.7.0</version>
+            <version>3.7.1-SNAPSHOT</version>
         </dependency>
         <dependency>
             <groupId>org.jenkins-ci.plugins</groupId>
